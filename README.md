@@ -1,6 +1,6 @@
 ![Master Header](./github-header-image.png)
 # Introduction
-<h3 align="center">Inspired Data Analyst from Cambodia</h3>
+<h3 align="left">Inspired Data Analyst from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toya-33&label=Profile%20views&color=0e75b6&style=flat" alt="toya-33" /> </p>
 
@@ -10,10 +10,10 @@
 </br>**I'm currently a Senior at National University of Management majoring in Digital Economy, Phnom Penh, Cambodia. I'm an aspired data analyst who look to build a career and create positive impact on the world through data analysis.**
 
 - 📫 How to reach me:
-**hengkongkeaoudong@gmail.com**
+</br>**hengkongkeaoudong@gmail.com**
 
 - ⚡ Fun fact about me:
-**I have long hairs XD.**
+</br>**I have long hairs XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
