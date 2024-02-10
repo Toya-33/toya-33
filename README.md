@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toya-33" alt="toya-33" /></a> </p>
 
 - 💬 About me:
-**I'm currently a Senior at National University of Management majoring in Digital Economy, Phnom Penh, Cambodia. I'm an aspired data analyst who look to build a career and create positive impact on the world through data analysis.**
+</br>**I'm currently a Senior at National University of Management majoring in Digital Economy, Phnom Penh, Cambodia. I'm an aspired data analyst who look to build a career and create positive impact on the world through data analysis.**
 
 - 📫 How to reach me:
 **hengkongkeaoudong@gmail.com**
