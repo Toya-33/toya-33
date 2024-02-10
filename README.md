@@ -1,4 +1,4 @@
-![Master Header](https://github.com/Toya-33/Hengkongkeaoudong/blob/main/github-header-image.png)
+![Master Header](./github-header-image.png)
 # Introduction
 <h3 align="center">Inspired Data Analyst from Cambodia</h3>
 
