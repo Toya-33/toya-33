@@ -10,8 +10,8 @@
 </br>**I'm currently a Senior at National University of Management majoring in Digital Economy, Phnom Penh, Cambodia. I'm an aspired data analyst who look to build a career and create positive impact on the world through data analysis.**
 
 - 📫 How to reach me:
-</br>**hengkongkeaoudong@gmail.com**
-<a href="https://toya-33.github.io/portfolio"> </a>
+</br>Email: **hengkongkeaoudong@gmail.com**
+</br>Website: <a href="https://toya-33.github.io/portfolio"> https://toya-33.github.io/portfolio </a>
 
 - ⚡ Fun fact about me:
 </br>**I have long hairs XD.**
