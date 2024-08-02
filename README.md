@@ -1,6 +1,5 @@
-![Master Header](./github-header-image.png)
 # Introduction
-<h3 align="left">Inspired Data Analyst from Cambodia</h3>
+<h3 align="left">Inspired Software Engineer/Data Analyst from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toya-33&label=Profile%20views&color=0e75b6&style=flat" alt="toya-33" /> </p>
 
